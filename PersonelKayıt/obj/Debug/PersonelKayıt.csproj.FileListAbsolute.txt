@@ -1,0 +1,9 @@
+C:\Users\Ali\Desktop\C#\VERİTABANI\PKayıt\PersonelKayıt\PersonelKayıt\bin\Debug\PersonelKayıt.exe.config
+C:\Users\Ali\Desktop\C#\VERİTABANI\PKayıt\PersonelKayıt\PersonelKayıt\bin\Debug\PersonelKayıt.exe
+C:\Users\Ali\Desktop\C#\VERİTABANI\PKayıt\PersonelKayıt\PersonelKayıt\bin\Debug\PersonelKayıt.pdb
+C:\Users\Ali\Desktop\C#\VERİTABANI\PKayıt\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\C#\VERİTABANI\PKayıt\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.Form1.resources
+C:\Users\Ali\Desktop\C#\VERİTABANI\PKayıt\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.Properties.Resources.resources
+C:\Users\Ali\Desktop\C#\VERİTABANI\PKayıt\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\C#\VERİTABANI\PKayıt\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.exe
+C:\Users\Ali\Desktop\C#\VERİTABANI\PKayıt\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.pdb
