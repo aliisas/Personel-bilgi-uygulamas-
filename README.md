@@ -1,1 +1,1 @@
-# Personel-bilgi-uygulamas-
+# Personel-bilgi-uygulamasi
